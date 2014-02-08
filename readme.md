@@ -13,7 +13,7 @@ Simple WordPress plugin adds image uploader meta box.
 
 == Description ==
 
-<img src="https://github.com/kharissulistiyo/7K-Image-Uploader-Meta-Box/blob/master/screenshot-1.png" alt="7K Image Uploader Meta Box WordPress Plugin" />
+<img src="https://raw.github.com/kharissulistiyo/7K-Image-Uploader-Meta-Box/master/screenshot-1.png" alt="7K Image Uploader Meta Box WordPress Plugin" />
 
 Printing the image output is very simple. Just use this code in your template file.
 
