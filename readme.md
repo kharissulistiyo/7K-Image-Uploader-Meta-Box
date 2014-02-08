@@ -17,11 +17,11 @@ Simple WordPress plugin adds image uploader meta box.
 
 Printing the image output is very simple. Just use this code in your template file.
 
-<code>
+<pre>
 $id = get_post_meta($post->ID, 'iumb', true);
 $image = wp_get_attachment_image_src($id, 'full-size');';
 echo $image;
-</code>
+</pre>
 
 This very first release doesn't support custom post type. Worry not, for the next version it does.
 
