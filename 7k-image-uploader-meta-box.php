@@ -5,7 +5,7 @@ Version: 1.0
 Description: Simple WordPress plugin adds image uploader meta box.
 Author: <a href="http://www.kharissulistiyono.com">Kharis Sulistiyono</a>
 Author URI: http://www.kharissulistiyono.com
-Plugin URI: http://www.kharissulistiyono.com
+Plugin URI: https://github.com/kharissulistiyo/7K-Image-Uploader-Meta-Box
 */
   
   // Create meta box
