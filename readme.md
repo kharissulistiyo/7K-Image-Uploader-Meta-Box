@@ -41,3 +41,8 @@ This very first release doesn't support custom post type. Worry not, for the nex
 ### Download
 
 http://wordpress.org/plugins/7k-image-uploader-meta-box/
+
+
+## Support
+
+Contact me: <a href="http://kharissulistiyono.com/">Kharis Sulistiyono</a>
